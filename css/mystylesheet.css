@@ -1,0 +1,33 @@
+body{
+	background: #eee;
+	text-align: center;
+	font-family: Calibri, Arial, Helvetica, sans-serif;
+}
+h1{
+	font-size: 3.5em;
+	
+}
+
+.rows{	
+	width: 100%;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+ul{
+	display: block;	
+	padding: 10px;	
+}
+
+li{
+	list-style-type: none;	
+	display: inline-block;
+	background: white;
+				
+}
+.category{
+	
+	width: 33%;
+	display: inline-block;
+	
+}
