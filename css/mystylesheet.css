@@ -5,18 +5,6 @@ body{
 }
 h1{
 	font-size: 3.5em;
-	
-}
-
-.rows{	
-	width: 100%;
-	padding-top:10px;
-	padding-bottom:10px;
-}
-
-ul{
-	display: block;	
-	padding: 10px;	
 }
 
 li{
@@ -25,9 +13,8 @@ li{
 	background: white;
 				
 }
-.category{
-	
-	width: 33%;
-	display: inline-block;
-	
+.grid{
+	padding-bottom:20px;
+	padding-top:20px;
 }
+
